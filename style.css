@@ -1,0 +1,20 @@
+body{
+    background-color: #fad7a0;
+}
+
+
+.jumbotron h1{
+    color: #FFFFFF;
+}
+
+.jumbotron p{
+    color: #FFFFFF;
+}
+.jumbotron {
+    background-image: url("https://media.istockphoto.com/photos/aspergillus-fumigatus-picture-id505973004");
+    background-size: 100% 100%;
+    text-align: center;
+  }
+
+
+
